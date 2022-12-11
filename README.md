@@ -18,7 +18,7 @@ This is my first iteration of this Github bio so I will be sure to update it as 
  <p>I also love going for walks with my pitbull Dozer, going for joyrides in my Model 3 and lounging around my house, feel free to reach out to me if you are looking to chat or are in the search of a Job.</p>
  <p><b><a href = "mailto: Dane@cruitgroup.com">My Email</a></b></p>
  <p>or find me on instagram</p>
- <p><a href ="https://www.instagram.com/lynchmafia/">IG</a></p>
+ <p><a href ="https://www.instagram.com/dane_lynch87/">IG</a></p>
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
